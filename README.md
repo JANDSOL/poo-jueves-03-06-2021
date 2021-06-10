@@ -1,4 +1,4 @@
-# Programación Orientada a Objetos ⚙
+# Clase viernes 03/06/2021 📖
 
 _En este repositorio estará contenido todos los archivos/tareas de las clases de POO en UNEMI 2021 😃._
 
