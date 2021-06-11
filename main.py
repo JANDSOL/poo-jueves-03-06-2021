@@ -13,4 +13,10 @@ class Fraction:
 
 
 if __name__ == '__main__':
-    pass
+    test1, test2 = Fraction(3, 4), Fraction(4, 5)
+    list_test = (test1, test2)
+    
+    print('*' * 39)
+    for num, test in enumerate(list_test, 1):
+        print('  Prueba {} de la clase Fraction: {}'.format(num, test))
+    print('*' * 39)
